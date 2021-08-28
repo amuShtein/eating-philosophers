@@ -1,0 +1,3 @@
+/home/xnpst/CLionProjects/eating_philosophers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xnpst/CLionProjects/eating_philosophers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xnpst/CLionProjects/eating_philosophers/cmake-build-debug/CMakeFiles/eating_philosophers.dir
